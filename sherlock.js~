@@ -63,7 +63,7 @@ x = parseInt(xYz[0]);
 
 z = parseInt(xYz[1]); 
 
-//console.log(x + z); 
+//console.log(A + B); 
 
 if( 1 <= x && x <= z && z <= 1000000000){ 
 
